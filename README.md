@@ -52,4 +52,4 @@ Filters / Slicers	Month, Brand, Payment filters for interactivity	Select “Augu
 
 6.Screenshorts / Demos
 
- [Mobile Data Analysis  Dashboard  Screenshort]:
+ [Mobile Data Analysis  Dashboard  Screenshort]:(https://github.com/solkartauhid/Mobile-Data-Analysis/blob/main/Mobile%20Data%20Analysis%20Sreenshort.jpg)
