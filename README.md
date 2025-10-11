@@ -50,6 +50,4 @@ Model-wise Sales (Bar Chart)	Identify best-selling models	iPhone SE (60M), OnePl
 Day-wise Sales (Column Chart)	Shows which day performs best	Monday – highest sales (115M)
 Filters / Slicers	Month, Brand, Payment filters for interactivity	Select “August” to view that month’s sales only
 
-6.Screenshorts / Demos
-
- [Mobile Data Analysis  Dashboard  Screenshort]:(https://github.com/solkartauhid/Mobile-Data-Analysis/blob/main/Mobile%20Data%20Analysis%20Sreenshort.jpg)
+6.Screenshorts / Demos [Mobile Data Analysis  Dashboard  Screenshort]:(https://github.com/solkartauhid/Mobile-Data-Analysis/blob/main/Mobile%20Data%20Analysis%20Sreenshort.jpg)
